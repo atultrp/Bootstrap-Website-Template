@@ -1,0 +1,231 @@
+/* font-family: 'Benne', serif;
+font-family: 'Merienda', cursive;
+font-family: 'Ubuntu', sans-serif; */
+
+body {
+    /* font-family: 'Ubuntu', sans-serif; */
+    font-family: 'Benne', serif;
+    text-align: center;
+}
+
+#title {
+    font-family: 'Benne', serif;
+    color: #fff;
+    text-align: left;
+}
+
+h1 {
+    font-family: 'Merienda', cursive;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1.3rem;
+    color: #6d6d6d;
+}
+
+.container-fluid {
+    padding: 3% 10%;
+}
+
+
+/* Sections */
+
+.colored-section {
+    background-color: rgb(19, 19, 19);
+}
+
+.white-section {
+    background-color: #fff;
+}
+
+
+/* Navigation bar  */
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-size: 2.5rem;
+}
+
+.nav-item {
+    padding: 0 14px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+
+
+/* Download Buttons  */
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+
+/* Title Image  */
+
+.title-image {
+    width: 100%;
+    height: 100%;
+}
+
+
+/* Feature Section */
+
+#features {
+    padding: 7% 10%;
+}
+
+.feature-box {
+    padding: 5%;
+}
+
+.icon {
+    color: rgb(19, 19, 19);
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: #383838;
+}
+
+
+/* Testimonials */
+
+#testimonials {
+    padding: 10% 10%;
+    color: #fff;
+}
+
+.testimonial-text {
+    font-size: 2rem;
+    line-height: 1.5;
+    margin: 0 15%;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 1% 2% 0 0;
+}
+
+
+/* Press  */
+
+#press {
+    padding: 1% 0;
+}
+
+.press-logo {
+    width: 5%;
+    margin: 0.5% 3%;
+}
+
+
+/* Straight Line */
+
+.straight-line {
+    border-style: solid;
+    border-color: rgb(19, 19, 19);
+    border-width: 3px;
+}
+
+
+/* Pricing  */
+
+#pricing {
+    padding: 4% 0;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
+
+
+/* Call to Action  */
+
+#cta {
+    color: #fff;
+}
+
+.cta-text {
+    margin: 7% 0 4%;
+    font-size: 2.8rem;
+}
+
+.dnld-button {
+    margin: 3% 2% 7%;
+}
+
+
+/* Footer  */
+
+#footer {
+    padding: 3% 15%;
+}
+
+.social-icon {
+    margin: 3% 2%;
+}
+
+
+/* For mobile version */
+
+@media (max-width: 1028px) {
+    /* Elements */
+    h1 {
+        font-size: 3rem;
+    }
+    h2 {
+        font-size: 2.5rem;
+    }
+    h3 {
+        font-size: 1.8rem;
+    }
+    p {
+        font-size: 1.2rem;
+    }
+    /* Navbar  */
+    .navbar-brand {
+        font-size: 2rem;
+    }
+    /* Title  */
+    #title {
+        text-align: center;
+    }
+    .title-image {
+        position: static;
+    }
+    /* Testimonial  */
+    .testimonial-text {
+        font-size: 1.3rem;
+    }
+    .testimonial-image {
+        width: 20%;
+        margin: 0 2% 0 0;
+    }
+    em {
+        font-size: 0.8rem;
+    }
+    .straight-line {
+        border-width: 1px;
+    }
+    /* CTA  */
+    .cta-text {
+        font-size: 2rem;
+    }
+}
