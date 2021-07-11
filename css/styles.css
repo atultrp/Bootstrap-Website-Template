@@ -53,11 +53,12 @@ p {
 /* Navigation bar  */
 
 .navbar {
-    padding: 0 0 4.5rem;
+    background-color: rgb(19, 19, 19);
 }
 
 .navbar-brand {
     font-size: 2.5rem;
+    margin-left: 5%;
 }
 
 .nav-item {
@@ -77,6 +78,10 @@ p {
 
 
 /* Title Image  */
+
+.header-text {
+    padding-top: 10%;
+}
 
 .title-image {
     width: 100%;
@@ -206,6 +211,9 @@ p {
     /* Title  */
     #title {
         text-align: center;
+    }
+    .header-text {
+        padding-top: 20%;
     }
     .title-image {
         position: static;
