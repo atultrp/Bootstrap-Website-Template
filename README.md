@@ -22,7 +22,7 @@ Website link : [Bootstrap Website Template](https://atultrp.github.io/Bootstrap-
   
 ## 📸️ Screenshots
 
-![imageonline-co-cropped-image](https://user-images.githubusercontent.com/69186169/126835973-49f65954-530c-44da-a185-c6076fba570a.png)
+![imageonline-co-cropped-image](https://user-images.githubusercontent.com/69186169/126835973-49f65954-530c-44da-a185-c6076fba570a.png) 
 
   
 ## ⚔️ Run Locally
