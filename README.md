@@ -1,7 +1,7 @@
 
 # ⚡️ Bootstrap Website Template ⚡️
 
-This is the Business Website Template for who wants a Template for their Business purpose.
+This is the Business Website Template for those who wants a Template for their Business purpose.
 ## 📃️ Documentation
 
 This website template is simply made by using
